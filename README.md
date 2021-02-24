@@ -29,5 +29,5 @@ SSU department of IT student Council<br>
 SSU central Accounting audit <br>
 
 -----------------------------------------------------
-My Goal: at least 1commit per day!!!<br>
+<b>My Goal: at least 1commit per day!!!</b><br>
 Heading to make study-information sharing platform for unviersity students just like me.
