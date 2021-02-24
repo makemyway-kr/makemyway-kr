@@ -8,15 +8,16 @@
 
 </div>
 
-University Student majoring in Computer Science&Engineering at Soongsil Univ.
+University Student majoring in Computer Science&Engineering at Soongsil Univ.<br>
 
-Studying to be web full-stack developer or android developer.
-I just started to study about developing, so there are many things to get to know. However I'm willing to study hard.
+Studying to be web full-stack developer or android developer.<br>
+I just started to study about developing, so there are many things to get to know. However I'm willing to study hard.<br>
 
-:computer: Studying HTML/CSS/JS & Server these days.
+:computer: Studying HTML/CSS/JS & Server these days.<br>
+
 ---------------------------------------------------------------------
 My achievements
-TOEFL:87/120
-TOEIC:940/990
-3rd place at AI smart Factory idea competition held at Soongsil Univ.
+TOEFL:87/120<br>
+TOEIC:940/990<br>
+3rd place at AI smart Factory idea competition held at Soongsil Univ.<br>
 Team leader of web project.
