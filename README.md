@@ -1,4 +1,4 @@
-### Hi there 👋
+### Thanks for visiting my github:punch:
 
 
 
@@ -25,7 +25,7 @@ TOEFL:87/120<br>
 TOEIC:940/990<br>
 3rd place at AI smart Factory idea competition held at Soongsil Univ.<br>
 Team leader of web project.https://github.com/gracurri <br>
-
-
+SSU department of IT student Council<br>
+SSU central Accounting audit <br>
 -----------------------------------------------------
 My Goal: at least 1commit per day!!!
