@@ -23,7 +23,7 @@ My achievements
 TOEFL:87/120<br>
 TOEIC:940/990<br>
 3rd place at AI smart Factory idea competition held at Soongsil Univ.<br>
-Team leader of web project.<br>
+Team leader of web project.https://github.com/gracurri <br>
 
 
 -----------------------------------------------------
