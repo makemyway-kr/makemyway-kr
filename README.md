@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-<!--
-**makemyway-kr/makemyway-kr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+<div>
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmakemyway-kr&count_bg=%23457BC9&title_bg=%23A21F1F&icon=buymeacoffee.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 Here are some ideas to get you started:
 
