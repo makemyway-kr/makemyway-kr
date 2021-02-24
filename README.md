@@ -18,6 +18,7 @@ I just started to study about developing, so there are many things to get to kno
 :computer: Studying HTML/CSS/JS & Server these days.<br>
 Also solving Algorithm problems and uploading here at my github & Blog<br>
 :pencil: My Blog:https://blog.naver.com/swj0914 <br>
+
 ---------------------------------------------------------------------
 My achievements
 TOEFL:87/120<br>
