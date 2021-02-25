@@ -20,7 +20,7 @@ Also solving Algorithm problems and uploading here at my github & Blog<br>
 :pencil: My Blog:https://blog.naver.com/swj0914 <br>
 
 ---------------------------------------------------------------------
-<h3>My achievements<br></h3>
+<h3>My achievements & way that I had walked<br></h3>
 TOEFL:87/120<br>
 TOEIC:940/990<br>
 3rd place at AI smart Factory idea competition held at Soongsil Univ.<br>
