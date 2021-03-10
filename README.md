@@ -11,7 +11,6 @@
 University Student majoring in Computer Science&Engineering at Soongsil Univ.<br>
 
 Studying to be web full-stack developer or android developer.<br>
-I just started to study about developing, so there are many things to get to know. However I'm willing to study hard.<br>
 
 ---------------------------------------------------------------------
 
