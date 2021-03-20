@@ -17,8 +17,10 @@ Studying to be web full-stack developer or android developer.<br>
 :computer: Studying HTML/CSS/JS & Server these days.<br>
 Also solving Algorithm problems and uploading here at my github & Blog<br>
 :pencil: My Blog:https://blog.naver.com/swj0914 <br>
+
 Programming language that I use : C / C++ / python / java / Javascript
 Mark Up: HTML / CSS
+
 ---------------------------------------------------------------------
 <h3>My achievements & way that I had walked<br></h3>
 TOEFL:87/120<br>
