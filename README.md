@@ -18,7 +18,7 @@ Studying to be web full-stack developer or android developer.<br>
 Also solving Algorithm problems and uploading here at my github & Blog<br>
 :pencil: My Blog:https://blog.naver.com/swj0914 <br>
 
-Programming language that I use : C / C++ / python / java / Javascript
+Programming language that I use : C / C++ / python / java / Javascript<br>
 Mark Up: HTML / CSS
 
 ---------------------------------------------------------------------
