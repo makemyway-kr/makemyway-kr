@@ -10,8 +10,7 @@
 
 University Student majoring in Computer Science&Engineering at Soongsil Univ.<br>
 
-Studying to be web full-stack developer or android developer.<br>
-
+Studying to be web backend / AI devloper
 ---------------------------------------------------------------------
 
 :computer: Studying HTML/CSS/JS & Server these days.<br>
