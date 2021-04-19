@@ -16,6 +16,8 @@ Studying to be web backend / AI devloper
 :computer: Studying HTML/CSS/JS & Server these days.<br>
 Also solving Algorithm problems and uploading here at my github & Blog<br>
 :pencil: My Blog:https://blog.naver.com/swj0914 <br>
+https://velog.io/@makemyway-kr<br>
+<br>
 
 Programming language that I use : C / C++ / python / java / Javascript<br>
 Mark Up: HTML / CSS
