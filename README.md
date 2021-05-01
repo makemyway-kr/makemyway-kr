@@ -24,7 +24,7 @@ Mark Up: HTML / CSS
 
 ---------------------------------------------------------------------
 <h3>My achievements & way that I had walked<br></h3>
-TOEFL:87/120<br>
+TOEFL :87/120<br>
 TOEIC:940/990<br>
 3rd place at AI smart Factory idea competition held at Soongsil Univ.<br>
 Team leader of web project.https://github.com/gracurri <br>
