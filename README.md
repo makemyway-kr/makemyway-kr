@@ -30,7 +30,7 @@ TOEIC:940/990<br>
 Team leader of web project.https://github.com/gracurri <br>
 SSU department of IT student Council<br>
 SSU central Accounting audit <br>
-Head of the accounting audit of SSU IT department(2020)
+Head of the accounting audit of SSU IT department(2020)<br>
 -----------------------------------------------------
 <b>:dart:My Goal: at least 1commit per day!!!</b><br>
 Heading to make study-information sharing platform for unviersity students just like me.
