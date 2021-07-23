@@ -13,7 +13,7 @@ University Student majoring in Computer Science&Engineering at Soongsil Univ.<br
 Studying to be web backend / AI devloper
 ---------------------------------------------------------------------
 
-:computer: Studying Node.js(Express)
+:computer: Studying Node.js(Express)<br>
 Also solving Algorithm problems and uploading here at my github & Blog<br>
 :pencil: My Blog:https://blog.naver.com/swj0914 <br>
 https://velog.io/@makemyway-kr<br>
