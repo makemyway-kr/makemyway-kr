@@ -36,6 +36,7 @@ Head of the accounting audit of SSU IT department(2020)<br>
 Heading to make study-information sharing platform for unviersity students just like me.<br>
 <br>
 <br>
+
 ![makemyway-kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=makemyway-kr&count_private=true&show_icons=true)
 
 
