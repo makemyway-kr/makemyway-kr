@@ -37,7 +37,11 @@ Heading to make study-information sharing platform for unviersity students just 
 <br>
 <br>
 
-![makemyway-kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=makemyway-kr&count_private=true&show_icons=true)
+![makemyway-kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=makemyway-kr&count_private=true&show_icons=true&theme=dark)
+
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makemyway-kr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
