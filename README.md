@@ -27,7 +27,7 @@ Mark Up: HTML / CSS
 TOEFL IBT :87/120<br>
 TOEIC:940/990<br>
 3rd place at AI smart Factory idea competition held at Soongsil Univ.<br>
-  <b><a href="https://github.com/gracurri">Team leader of web project. </a><br>
+  <b><a href="https://github.com/gracurri">Team leader of GRACURRI. </a><br>
   <a href="https://github.com/ssunivs">Backend Developer of SSUNIVERSE team</a> </b><br>
 SSU department of IT student Council<br>
 SSU central Accounting audit <br>
