@@ -28,7 +28,7 @@ TOEFL IBT :87/120<br>
 TOEIC:940/990<br>
 3rd place at AI smart Factory idea competition held at Soongsil Univ.<br>
 <b>Team leader of web project.https://github.com/gracurri <br>
-  Backend Developer of SSUNIVERSE team </b><br>
+  <a href="https://github.com/ssunivs">Backend Developer of SSUNIVERSE team</a> </b><br>
 SSU department of IT student Council<br>
 SSU central Accounting audit <br>
 Head of the accounting audit of SSU IT department(2020)<br>
