@@ -21,7 +21,7 @@ https://velog.io/@makemyway-kr<br>
 
 Programming language that I use : C / C++ / python / java / Javascript<br>
 Mark Up: HTML / CSS<br>
-🦾tech: NODE.JS / MY SQL / FLASK(learning) <br>
+🦾tech: NODE.JS (express)/ MY SQL / FLASK(learning) <br>
 
 ---------------------------------------------------------------------
 <h3>My achievements & way that I had walked<br></h3>
