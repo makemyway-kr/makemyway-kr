@@ -20,14 +20,15 @@ https://velog.io/@makemyway-kr<br>
 <br>
 
 Programming language that I use : C / C++ / python / java / Javascript<br>
-Mark Up: HTML / CSS
+Mark Up: HTML / CSS<br>
+🦾tech: NODE JS / MY SQL / FLASK(
 
 ---------------------------------------------------------------------
 <h3>My achievements & way that I had walked<br></h3>
 TOEFL IBT :87/120<br>
 TOEIC:940/990<br>
 3rd place at AI smart Factory idea competition held at Soongsil Univ.<br>
-  <b><a href="https://github.com/gracurri">Team leader of GRACURRI. </a><br>
+  <b><a href="https://github.com/gracurri">Full stack developer & Team leader of GRACURRI. </a><br>
   <a href="https://github.com/ssunivs">Backend Developer of SSUNIVERSE team</a> </b><br>
 SSU department of IT student Council<br>
 SSU central Accounting audit <br>
