@@ -10,7 +10,7 @@
 
 University Student majoring in Computer Science&Engineering at Soongsil Univ.<br>
 
-Studying to be web backend / AI devloper
+Studying to be web&Fintech backend devloper
 ---------------------------------------------------------------------
 
 :computer: Studying Node.js(Express) & MySQL<br>
