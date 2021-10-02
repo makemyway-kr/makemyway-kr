@@ -10,7 +10,7 @@
 
 University Student majoring in Computer Science&Engineering at Soongsil Univ.<br>
 
-Studying to be web&Fintech backend devloper
+Studying to be web&Fintech backend devloper || Security
 ---------------------------------------------------------------------
 
 :computer: Now Studying ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)<br><br>
