@@ -8,7 +8,7 @@
 
 </div>
 
-University Student majoring in Computer Science&Engineering at Soongsil Univ.<br>
+University Student majoring Computer Science&Engineering at Soongsil Univ.<br>
 
 Studying to be web back_end devloper // Database engineer
 ---------------------------------------------------------------------
