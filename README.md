@@ -33,7 +33,7 @@ TOEIC:940/990<br>
   <b><a href="https://github.com/gracurri">Full stack developer & Team leader of GRACURRI. </a><br>
   <a href="https://github.com/ssunivs">PM,Backend Developer of SSUNIVERSE team</a> </b><br>
  <a href="https://github.com/ssunivs/ssua-test-react">슈아는 패션왕 기획,프론트</a><br>
- <a href="https://github.com/amuguna1mandeum">대한민국 흡연구역 지도 웹 기획 및 PM, IT대학 라커 백엔드(django)</a><br>
+ <a href="https://github.com/amuguna1mandeum"> IT대학 라커 백엔드(django)</a><br>
 SSU department of IT student Council<br>
 SSU central Accounting audit <br>
 Head of the accounting audit of SSU IT department(2020)<br>
