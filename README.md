@@ -13,34 +13,20 @@ University Student majoring Computer Science&Engineering at Soongsil Univ.<br>
 Studying to be web back_end devloper // Database engineer
 ---------------------------------------------------------------------
 
-:computer: Now Studying ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)<br><br>
+:computer: Now Studying ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white<br><br>
 Also solving Algorithm problems and uploading here at my github & Blog<br>
-:pencil: My Blog:https://blog.naver.com/swj0914 <br>
-https://velog.io/@makemyway-kr<br>
+ :pencil: <h2>My Blog and Portfolio</h2>
+ <a href="https://velog.io/@makemyway-kr" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <br>
+ <a href="https://wonjunsim.notion.site/JUN-4d24dfb2994d4d5fbde53adc26ccee05" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  </a>
 
 Programming language that I use :  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br><br>
 Mark Up: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br><br>
 🦾FRAMEWORK,PLATFORM,LIBRARIES: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  <br><br>
  DB: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br><br>
  SERVER: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)<br><br>
-
----------------------------------------------------------------------
-<h3>My achievements & way that I had walked<br></h3>
-TOEFL IBT :87/120<br>
-TOEIC:940/990<br>
-3rd place at AI smart Factory idea competition held at Soongsil Univ.<br>
-  <b><a href="https://github.com/gracurri">Full stack developer & Team leader of GRACURRI. </a><br>
-  <a href="https://github.com/ssunivs">PM,Backend Developer of SSUNIVERSE team</a> </b><br>
- <a href="https://github.com/ssunivs/ssua-test-react">슈아는 패션왕 기획,프론트</a><br>
- <a href="https://github.com/amuguna1mandeum"> IT대학 라커 백엔드(django)</a><br>
-SSU department of IT student Council<br>
-SSU central Accounting audit <br>
-Head of the accounting audit of SSU IT department(2020)<br>
------------------------------------------------------<br>
-<b>:dart:My Goal: at least 1commit per day!!!</b><br>
-Heading to make study-information sharing platform for unviersity students just like me.<br>
-<br>
 <br>
 
 ![makemyway-kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=makemyway-kr&count_private=true&show_icons=true&theme=dark)
