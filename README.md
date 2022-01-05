@@ -13,7 +13,8 @@ University Student majoring Computer Science&Engineering at Soongsil Univ.<br>
 Studying to be web back_end devloper // Database engineer
 ---------------------------------------------------------------------
 
-:computer: Now Studying ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white<br><br>
+:computer: Now Studying ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
+ ![(https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br><br>
 Also solving Algorithm problems and uploading here at my github & Blog<br>
  :pencil: <h2>My Blog and Portfolio</h2>
  <a href="https://velog.io/@makemyway-kr" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
