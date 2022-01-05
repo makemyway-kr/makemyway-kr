@@ -16,13 +16,14 @@ Studying to be web back_end devloper // Database engineer
 :computer: Now Studying ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)<br><br>
 Also solving Algorithm problems and uploading here at my github & Blog<br>
- :pencil: <h2>My Blog and Portfolio</h2>
+ <h2> :pencil: My Blog and Portfolio</h2>
  <a href="https://velog.io/@makemyway-kr" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 <br>
  <a href="https://wonjunsim.notion.site/JUN-4d24dfb2994d4d5fbde53adc26ccee05" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
-  </a>
+ </a>
  <br>
+ 
 -------------------------------------------------------------------------
  
 Programming language that I use :  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br><br>
