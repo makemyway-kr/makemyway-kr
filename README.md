@@ -31,6 +31,7 @@ Mark Up: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  <br><br>
  DB: ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) <br><br>
  SERVER: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)<br><br>
+ ELSE: ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23ff9900.svg?style=for-the-badge&logo=amazon&logoColor=white) ![TRAVIS](https://img.shields.io/badge/Travis-%233eaaaf.svg?style=for-the-badge&logo=travis&logoColor=white)
 <br>
 
 ![makemyway-kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=makemyway-kr&count_private=true&show_icons=true&theme=dark)
