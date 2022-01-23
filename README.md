@@ -11,7 +11,7 @@
 University Student majoring Computer Science&Engineering at Soongsil Univ.<br>
 
 Studying to be web back_end devloper // Database engineer<br>
- Now working as SW engineer Intern
+ Now working as SW engineer(backend) Intern
 ---------------------------------------------------------------------
 
 :computer: Now Studying ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) 
