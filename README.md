@@ -10,7 +10,7 @@
 
 University Student majoring Computer Science&Engineering at Soongsil Univ.<br>
 
-Studying to be web back_end devloper // Database engineer<br>
+BACKEND/DEV OPS<br>
  Now working as SW engineer(backend) Intern
 ---------------------------------------------------------------------
 
