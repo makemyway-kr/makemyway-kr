@@ -11,7 +11,7 @@
 University Student majoring Computer Science&Engineering at Soongsil Univ.<br>
 
 BACKEND/DEV OPS<br>
----------------------------------------------------------------------
+
  <h2> :pencil: My Blog and Portfolio</h2>
  <a href="https://velog.io/@makemyway-kr" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
  <a href="https://wonjunsim.notion.site/JUN-4d24dfb2994d4d5fbde53adc26ccee05" target="_blank">
