@@ -36,6 +36,5 @@ Mark Up: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the
 
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=makemyway-kr&repo=lockerweb)](https://github.com/TEAM-MAT/lockerweb)
 
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=makemyway-kr&repo=gomin-sageori)](https://github.com/TEAM-MAT/gomin-sageori)
 
 </center>
