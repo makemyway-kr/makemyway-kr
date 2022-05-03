@@ -30,10 +30,6 @@ Mark Up: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the
  SERVER & INFRA: ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-FFFFFF?style=for-the-badge&logo=Kubernetes&logoColor=326CE5)<br>
 <br>
 
-![makemyway-kr's GitHub stats](https://github-readme-stats.vercel.app/api?username=makemyway-kr&count_private=true&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makemyway-kr)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-
 [![Repository Card](https://widget.realdeveloper.pro/api/card?user=makemyway-kr&repo=lockerweb)](https://github.com/TEAM-MAT/lockerweb)
 
 
