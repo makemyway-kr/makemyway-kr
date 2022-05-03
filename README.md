@@ -1,26 +1,13 @@
-### Thanks for visiting my github:punch:
-
-
-<center>
-<div>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmakemyway-kr&count_bg=%23457BC9&title_bg=%23A21F1F&icon=buymeacoffee.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
-</div>
-
+### WonJunSim's github:punch:
 University Student majoring Computer Science&Engineering at Soongsil Univ.<br>
-
 BACKEND/DEV OPS<br>
-
  <h2> :pencil: My Blog and Portfolio</h2>
  <a href="https://velog.io/@makemyway-kr" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
  <a href="https://wonjunsim.notion.site/JUN-4d24dfb2994d4d5fbde53adc26ccee05" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
  </a>
  <br>
- 
 -------------------------------------------------------------------------
- 
 Programming languages that I use :  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br><br>
 Mark Up: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)<br><br>
 🦾FRAMEWORK,PLATFORM,LIBRARIES:  ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) 
