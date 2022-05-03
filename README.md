@@ -17,8 +17,4 @@ Mark Up: ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the
  CLOUD: ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)<br><br>
  SERVER & INFRA: ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-FFFFFF?style=for-the-badge&logo=Kubernetes&logoColor=326CE5)<br>
 <br>
-
-[![Repository Card](https://widget.realdeveloper.pro/api/card?user=makemyway-kr&repo=lockerweb)](https://github.com/TEAM-MAT/lockerweb)
-
-
 </center>
