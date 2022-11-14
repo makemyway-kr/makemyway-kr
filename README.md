@@ -8,7 +8,7 @@ BACKEND/DEV,ML OPS<br>
  <a href="https://wonjunsim.notion.site/JUN-4d24dfb2994d4d5fbde53adc26ccee05" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/>
  </a><br>
- <a href = "gomin.team-mat.com"> 고민사거리 Gomin-Sageori </a>
+ <a href = "https://gomin.team-mat.com"> 고민사거리 Gomin-Sageori </a>
  <br>
 -------------------------------------------------------------------------
 
