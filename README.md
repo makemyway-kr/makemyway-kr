@@ -1,5 +1,5 @@
 ### WonJunSim's github:punch:
-University Student majoring Computer Science&Engineering at Soongsil Univ.(2019 ~ 2022)<br>
+University Student majoring Computer Science&Engineering at Soongsil Univ.(2019 ~ 2022 Fall Semester)<br>
 BACKEND/DEV,ML OPS<br>
 2022.01 ~ 2022.06 SW Engineer Intern at Fainders.AI<br>
 2022.08 ~ Data Platform Web Developer at KAKAO.CORP<br>
