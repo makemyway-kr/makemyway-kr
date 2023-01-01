@@ -1,7 +1,7 @@
 ### WonJunSim's github:punch:
 University Student majoring Computer Science&Engineering at Soongsil Univ.(2019 ~ 2022 Fall Semester)<br>
 BACKEND/DEV,ML OPS<br>
-2022.01 ~ 2022.06 SW Engineer Intern at Fainders.AI<br>
+2022.01 ~ 2022.06 SW Engineer at Fainders.AI<br>
 2022.08 ~ Data Platform Web Developer at KAKAO.CORP<br>
  <h2> :pencil: My Blog and Portfolio</h2>
  <a href="https://velog.io/@makemyway-kr" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
